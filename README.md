@@ -19,6 +19,8 @@ This project analyzes food delivery order data to understand revenue performance
 ## 📊 Dashboard Pages
 
 ### 1. Overview
+<img width="1242" height="710" alt="Screenshot 2026-10-15 185410" src="https://github.com/user-attachments/assets/4df9af11-ee95-44d2-bda8-0e2d27b0e361" />
+
 - Total Revenue
 - Total Orders
 - Eligible Orders
@@ -28,6 +30,8 @@ This project analyzes food delivery order data to understand revenue performance
 - Revenue by City
 
 ### 2. Customer Analysis
+<img width="1251" height="712" alt="Screenshot 2026-10-15 185426" src="https://github.com/user-attachments/assets/7fd5664c-cd1f-4a2a-a1d7-d7b42577743c" />
+
 - Customers by Gender
 - Customers by Occupation
 - Customers by Age Group
@@ -36,6 +40,8 @@ This project analyzes food delivery order data to understand revenue performance
 - Customer Spending Segments
 
 ### 3. Restaurant Analysis
+<img width="1242" height="707" alt="Screenshot 2026-10-15 185451" src="https://github.com/user-attachments/assets/78d80ab5-3c83-4ab6-be8e-d910de5d6b6b" />
+
 - Total Restaurants
 - Average Restaurant Rating
 - Total Cities
